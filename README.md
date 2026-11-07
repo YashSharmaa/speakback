@@ -20,7 +20,7 @@ Nothing leaves the machine after the one-time model download.
 With Homebrew:
 
 ```sh
-brew tap YashSharmaa/tap && brew install speakback
+brew tap YashSharmaa/tap && brew trust yashsharmaa/tap && brew install speakback
 ```
 
 Or with the install script, which checks the Mac, builds from source and installs `~/.local/bin/speak`:
