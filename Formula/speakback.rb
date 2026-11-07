@@ -2,7 +2,7 @@ class Speakback < Formula
   desc "Read text aloud on your Mac with Kokoro-82M, fully on device"
   homepage "https://github.com/YashSharmaa/speakback"
   url "https://github.com/YashSharmaa/speakback/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "SHA256_PLACEHOLDER"
+  sha256 "13775c2f905afe73a01af06176c39fcecad393fc9a9d7881741bc3ea3264a311"
   license "MIT"
 
   depends_on arch: :arm64
